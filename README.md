@@ -1,3 +1,3 @@
 # GitHandoffDemo
 
-I'm only friends
+I'm only friends with
